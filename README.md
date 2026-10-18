@@ -24,3 +24,22 @@ Assicurati di avere Python installato sul tuo sistema. Le dipendenze necessarie 
 
 ```bash
 pip install customtkinter cryptography
+
+🚀 Utilizzo
+Clona il repository o scarica i file sorgente.
+
+Avvia l'applicazione eseguendo:
+
+Bash
+python app.py
+Alla prima apertura, ti verrà chiesto di impostare una Master Password.
+
+📦 Compilazione dell'Esecutivo (.exe)
+Se desideri compilare l'applicazione in un file eseguibile indipendente per Windows, puoi usare PyInstaller da terminale:
+
+Bash
+pyinstaller --noconsole --onefile --icon=icon.ico app.py
+L'eseguibile pronto all'uso verrà generato all'interno della cartella dist/.
+
+📜 Licenza
+Questo progetto è distribuito sotto licenza aperta. Sentiti libero di forkare il codice, migliorarlo o usarlo come base per i tuoi progetti.
