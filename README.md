@@ -1,5 +1,7 @@
 # 🔒 VaultPass
 
+[![Download EXE](https://img.shields.io/badge/Download-.EXE%20Pronto-blue?style=for-the-badge&logo=windows)](https://narcos891.gumroad.com/l/rcvwqs)
+
 **VaultPass** è un gestore di password locale, moderno e sicuro, sviluppato in Python utilizzando **CustomTkinter** per un'interfaccia grafica pulita ed elegante, e la libreria **cryptography** per una protezione dei dati di livello industriale.
 
 Nessun server cloud di terze parti: i tuoi dati rimangono esclusivamente sul tuo dispositivo all'interno della cartella protetta `%APPDATA%\MyPasswordManager`.
