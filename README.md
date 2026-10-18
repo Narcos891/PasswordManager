@@ -1,6 +1,7 @@
 # 🔒 VaultPass
 
 [![Download EXE](https://img.shields.io/badge/Download-.EXE%20Pronto-blue?style=for-the-badge&logo=windows)](https://narcos891.gumroad.com/l/rcvwqs)
+[![Buy Me a Coffee](https://img.shields.io/badge/Sostieni-Buy%20Me%20a%20Coffee-orange?style=for-the-badge&logo=buy-me-a-coffee)](https://buymeacoffee.com/narcos89)
 
 **VaultPass** è un gestore di password locale, moderno e sicuro, sviluppato in Python utilizzando **CustomTkinter** per un'interfaccia grafica pulita ed elegante, e la libreria **cryptography** per una protezione dei dati di livello industriale.
 
