@@ -22,7 +22,6 @@ Nessun server cloud di terze parti: i tuoi dati rimangono esclusivamente sul tuo
 
 Assicurati di avere Python installato sul tuo sistema. Le dipendenze necessarie sono:
 
-```bash
 pip install customtkinter cryptography
 
 🚀 Utilizzo
@@ -30,7 +29,6 @@ Clona il repository o scarica i file sorgente.
 
 Avvia l'applicazione eseguendo:
 
-Bash
 python app.py
 Alla prima apertura, ti verrà chiesto di impostare una Master Password.
 
