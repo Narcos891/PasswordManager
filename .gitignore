@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+build/
+dist/
+*.spec
+*.dat
+*.bin
+*.check
+.venv/
+secret.key
